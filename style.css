@@ -1,0 +1,12 @@
+img {
+  width: 300px;
+}
+
+#joke {
+  background-color: #badecc;
+  color: #badecc;
+}
+
+#joke:hover {
+  color: black;
+}
