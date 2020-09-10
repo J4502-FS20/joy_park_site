@@ -2,11 +2,11 @@ img {
   width: 300px;
 }
 
-#joke {
-  background-color: #badecc;
-  color: #badecc;
+#joke span {
+  background-color: #9dbbf2;
+  color: #9dbbf2;
 }
 
-#joke:hover {
+#joke span:hover {
   color: black;
 }
