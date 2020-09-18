@@ -30,7 +30,7 @@ h2 {
 
 ul {
   list-style: none;
-  padding-inline-start: 0px;
+  padding: 0px;
 }
 
 ul a {
